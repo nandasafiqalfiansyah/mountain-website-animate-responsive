@@ -196,7 +196,7 @@ header .hero h1 {
   color: var(--text);
 }
 .contact .box-contact form table tr td input {
-  padding: 15px 60px 15px 20px;
+  padding: 15px 50px 15px 20px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
