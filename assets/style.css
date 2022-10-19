@@ -190,6 +190,7 @@ header .hero h1 {
 .contact .box-contact form table tr {
   display: flex;
   flex-direction: column;
+  padding-top: 10px;
 }
 .contact .box-contact form table tr td label {
   font-size: 20px;
