@@ -43,3 +43,9 @@ git clone https://github.com/nandasafiqalfiansyah/gamics.git
 ### License
 
 This project is **free to use** and does not contains any license.
+
+###Tool
+[AOS]
+(http://michalsnik.github.io/aos/)
+
+[animated.css](https://r.search.yahoo.com/_ylt=Awrgw6_WB1BjnF4Ma75XNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZANMT0NVSTA1NF8xBHNlYwNzcg--/RV=2/RE=1666218070/RO=10/RU=https%3a%2f%2fanimate.style%2f/RK=2/RS=ae7jJTeJiHpzrwMFXZJyqkycH7s-)
